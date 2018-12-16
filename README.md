@@ -9,13 +9,13 @@ High-precision surveying work often requires precise knowledge of the medium air
 ## Inhalt dieses Repository
 
 ### Bachelor Thesis
-Die pdf-Datei **thesis.pdf** enthält die Bachelor-Thesis **Low-cost Umweltmonitoring mit Arduino in Geosensornetzwerken** von Riccardo Oppermann. 
+Die pdf-Datei **thesis.pdf** enthält die Bachelor-Thesis **Low-cost Umweltmonitoring mit Arduino in Geosensornetzwerken** von Riccardo Oppermann. Betreut wurde diese Arbeit an der HafenCity Universität Hamburg von den Herren Prof. Dr.-Ing. Harald Sternberg und Dipl.-Umweltwiss. Dipl.-Ing. Günter Eppinger.
 
 ### Arduino Code
 Dieser Ordner enthält den Quellcode für eine Sensorstation. **SensorStation.ino** ist das Main Sketch File.
 
 ### Layout
-Dieser Ordner enthält ein Bild des mit fritzing erstellten Layouts einer Sensorstaton sowie einen Schaltplan. Ebenfalls finden sich dort Bilder einer fertigen Sensorstation auf einem PCB.
+Dieser Ordner enthält ein Bild des mit fritzing erstellten Layouts sowie Schaltplans einer Sensorstaton. Ebenfalls finden sich dort Bilder einer fertigen Sensorstation auf einem PCB.
 
 ### PCB-Design
 In diesem Ordner ist das entworfene Board in Form einer Eagle-CAD-Boarddatei sowie einer fertigen Gerber-Datei.
